@@ -62,6 +62,25 @@ venv\Scripts\activate
 pip install -r requirements.txt
 python run.py
 ```
+## 📄 Purpose of Project
+
+<p align="center">
+  <a href="https://github.com/DaniSam-STU/secure-web-application/blob/main/purpose_of_project.md">
+    <img src="https://img.shields.io/badge/Documentation-Open%20purpose.md-blue?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+## 🚀 Future Improvements
+
+- Implement Two-Factor Authentication (2FA)
+- Add Admin Dashboard with analytics
+- Store logs in database instead of file
+- Add IP tracking for suspicious logins
+- Implement account lockout with timeout
+- Add password reset via email
+- Use JWT for API-based authentication
+- Deploy application on cloud (AWS / Render)
+
 ## 🤝 Contributing
 - Pull requests are welcome!
 - Feel free to fork and improve this project.
