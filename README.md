@@ -56,12 +56,18 @@ This project demonstrates secure web application development using Flask.
 ## Installation
 ```bash
 git clone https://github.com/DaniSam-STU/secure-web-application
-cd secure-web-app
+cd secure-web-application
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 python run.py
 ```
+### How to make one admin user
+Run
+```
+python make_admin.py
+```
+use email that you wants to register as admin
 ## 📄 Purpose of Project
 
 <p align="center">
