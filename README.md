@@ -76,6 +76,10 @@ use email that you wants to register as admin
   </a>
 </p>
 
+## 📘 Documentation
+
+👉 [View Full Documentation](https://github.com/DaniSam-STU/secure-web-application/wiki)
+
 ## 🚀 Future Improvements
 
 - Implement Two-Factor Authentication (2FA)
