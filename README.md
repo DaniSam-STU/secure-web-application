@@ -39,18 +39,13 @@ This project demonstrates secure web application development using Flask.
 - Flask-Login
 - Flask-WTF
 - SQLAlchemy
-<h3 align="center">📌 Project Repository</h3>
-
-<h3 align="center">📊 Project Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaniSam-STU&repo=secure-web-application&theme=tokyonight&cache_seconds=1800">
-</p>
-
 <h3 align="center">💻 Most Used Languages</h3>
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniSam-STU&layout=compact&theme=tokyonight&cache_seconds=1800">
+  <img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=7aa2f7">
+  <img src="https://img.shields.io/badge/HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=f7768e">
+  <img src="https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=7dcfff">
 </p>
 
 ## Installation
@@ -116,3 +111,10 @@ If you like this project, give it a ⭐ on GitHub!
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:181717&height=100&section=footer"/>
 </p>
+
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniSam-STU&repo=CodeAlpha_Network-Sniffer&layout=compact&theme=nightowl&hide_border=true" />
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniSam-STU&repo=CodeAlpha_Network-Sniffer&layout=compact&theme=nightowl" />
