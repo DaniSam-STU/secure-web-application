@@ -111,10 +111,3 @@ If you like this project, give it a ⭐ on GitHub!
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:181717&height=100&section=footer"/>
 </p>
-
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniSam-STU&repo=CodeAlpha_Network-Sniffer&layout=compact&theme=nightowl&hide_border=true" />
-</p>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniSam-STU&repo=CodeAlpha_Network-Sniffer&layout=compact&theme=nightowl" />
